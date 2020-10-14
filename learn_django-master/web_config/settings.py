@@ -25,7 +25,7 @@ SECRET_KEY = 'e$-i80h@c1b=%i-9o13%e!^^7*$(w^7%s25+5u%rqs61u8jj8^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'https://test2761380-haefm.run.goorm.io/']
 
 
 # Application definition
